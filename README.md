@@ -3,11 +3,6 @@
 + [Ввведение](https://github.com/LizonkaElizaveta/GitTutorial/tree/master/#Введение)
 + [Основы Git](https://github.com/LizonkaElizaveta/GitTutorial/tree/master/#Основы-Git)
 + [Ветвление в Git](https://github.com/LizonkaElizaveta/GitTutorial/tree/master/#Ветвление-в-Git)
-+ Git на сервере
-+ Распределенный Git
-+ Инструменты Git
-+ Настройка Git
-+ Git изнутри
 
 ## Введение
 Git — система управления версиями(СУВ). Главное отличие Git от других СУВ в том, что когда мы фиксируем текущую версию проекта, то Git сохраняет лишь слепок того как выглядят все файлы проекта на текущий момент. Если файл не менялся, то Git не сохраняет файлы снова, а делает ссылку на ранее сохраненный файл.
